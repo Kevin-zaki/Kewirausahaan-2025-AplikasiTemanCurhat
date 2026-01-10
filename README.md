@@ -58,3 +58,13 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 - Aplikasi secara eksplisit menyatakan bahwa layanan yang diberikan bukan layanan medis, psikologis, atau psikiatris
 - Pendengar tidak memberikan diagnosis, terapi, maupun rekomendasi klinis
 - Aplikasi berfungsi sebagai dukungan emosional awal (early emotional support)
+
+**3. Moderasi & Pencegahan Penyalahgunaan**
+- Sistem pelaporan dan moderasi interaksi
+- Penghentian akses bagi pengguna atau pendengar yang melanggar ketentuan
+- Kebijakan penggunaan yang mengikat melalui Terms of Service
+
+📄 *AKSES DOKUMEN: Draft Legal & Terms of Service*  
+[Link_Google_Docs https://docs.google.com/document/d/1XTfvXW-9a3MdeR5GGki-LrpSUgymPwQlsoM5zm58woQ/edit?usp=sharing]
+
+---
