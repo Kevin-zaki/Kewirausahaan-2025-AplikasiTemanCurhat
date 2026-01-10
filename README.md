@@ -47,4 +47,4 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 
 ---
 
-Catatan: Perubahan kecil untuk menguji commit collaborator oleh Handra.
+Catatan: Commit test oleh Handra — memastikan commit dan push berhasil sebagai collaborator.
