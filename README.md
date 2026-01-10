@@ -44,3 +44,17 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 
 ## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
 - **Status Merek:** Berdasarkan penelusuran awal pada Pangkalan Data Kekayaan Intelektual (PDKI), merek “Teman Curhat” tidak ditemukan memiliki kesamaan pada kelas jasa yang relevan. Penelusuran ini menjadi dasar awal dalam proses pengamanan identitas merek, dengan rencana pendaftaran resmi merek dagang pada tahap pengembangan lanjutan.
+
+- **Bentuk Badan Usaha:** Aplikasi Teman Curhat direncanakan beroperasi di bawah badan usaha PT Perorangan, yang memberikan pemisahan tanggung jawab hukum antara entitas usaha dan individu pemilik, serta memungkinkan fleksibilitas pengelolaan pada tahap awal pengembangan bisnis digital.  
+
+**Mitigasi Risiko:**
+
+***1. Keamanan Data & Privasi***
+- Penerapan enkripsi data dan sistem anonimitas pengguna
+- Pembatasan akses data internal
+- Penggunaan data hanya untuk kepentingan operasional dan pengembangan layanan
+
+***2. Batasan Layanan (Disclaimer Layanan)***
+- Aplikasi secara eksplisit menyatakan bahwa layanan yang diberikan bukan layanan medis, psikologis, atau psikiatris
+- Pendengar tidak memberikan diagnosis, terapi, maupun rekomendasi klinis
+- Aplikasi berfungsi sebagai dukungan emosional awal (early emotional support)
