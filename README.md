@@ -30,3 +30,21 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 - *Modal Awal:* Rp 26.650.000  
 - *Break Even Point (BEP):* Bulan ke-3  
 - *Proyeksi Profit (Bulan ke-3):* Rp 79.950.000
+
+**Sumber Pendapatan:**
+- Pengguna Basic (Dengan Harga layanan curhat session dan phone call yang murah dan terjangkau)
+- Pengguna Premium (Dengan Harga layanan banyak pilihan ada curhat master, curhat yuk, dan curhat aja, dengan bundle curhat session dan phone call)
+
+📈 **AKSES DOKUMEN: Perhitungan Keuangan Lengkap (Google Sheets)**  
+[Link_Google_Sheets https://docs.google.com/spreadsheets/d/1aWtnG51UvS6X6BYYW2MmslfdOaNk2O84ZhoaxfHuBbc/edit?usp=sharing]  
+
+*(Memuat HPP, arus kas 3 bulan, BEP, dan proyeksi laba rugi dengan formula aktif)*
+
+---
+
+## ⚖️ 3. Aspek Legalitas & Mitigasi Risiko
+- **Status Merek:** Berdasarkan penelusuran awal pada Pangkalan Data Kekayaan Intelektual (PDKI), merek “Teman Curhat” tidak ditemukan memiliki kesamaan pada kelas jasa yang relevan. Penelusuran ini menjadi dasar awal dalam proses pengamanan identitas merek, dengan rencana pendaftaran resmi merek dagang pada tahap pengembangan lanjutan.
+
+---
+
+Catatan: Perubahan kecil untuk menguji commit collaborator oleh Handra.
