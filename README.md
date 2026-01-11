@@ -68,3 +68,9 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 [Link_Google_Docs https://docs.google.com/document/d/1XTfvXW-9a3MdeR5GGki-LrpSUgymPwQlsoM5zm58woQ/edit?usp=sharing]
 
 ---
+## 📺 4. Presentasi Produk (Pitch Deck)
+Penjelasan lengkap mengenai masalah, solusi, dan potensi bisnis dapat diakses melalui video pitching berikut:
+
+[![Video Pitching](https://img.youtube.com/vi/zuXTBt77P9w/0.jpg)](https://youtu.be/zuXTBt77P9w)
+
+[Link_GDrive_Video_Wawancara https://drive.google.com/file/d/1usbLiRI5elmK-fuymddN7r6HuCLTha5b/view?usp=drive_link]
