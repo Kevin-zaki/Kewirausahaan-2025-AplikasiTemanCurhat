@@ -27,7 +27,7 @@ Kami telah melakukan validasi masalah melalui survei digital dan observasi pengg
 ---
 
 ## 📊 2. Arsitektur Keuangan & Model Bisnis
-- *Modal Awal:* Rp 26.650.000  
+- *Modal Awal:* Rp 50.000.000  
 - *Break Even Point (BEP):* Bulan ke-3  
 - *Proyeksi Profit (Bulan ke-3):* Rp 79.950.000
 
